@@ -1,0 +1,31 @@
+.itemContainer {
+  /* background-color: aquamarine; */
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  width: 20px;
+  margin-left: 20px;
+}
+
+.titleName {
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.domainLogo {
+  margin-left: 10px;
+  color: #64748b;
+  font-size: 12px;
+}
+
+.Time {
+  font-size: 14px;
+  color: #475569;
+  font-weight: bold;
+}
+.DeleteImage {
+  align-items: flex-end;
+}
